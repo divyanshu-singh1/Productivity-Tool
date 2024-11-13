@@ -6,7 +6,7 @@
                     © <script>
                         document.write(new Date().getFullYear())
                     </script>,
-                    made with <i class="fa fa-heart"></i> by
+                    made by
                     <a href="https://github.com/divyanshu-singh1/Productivity-Tool" class="font-weight-bold" target="_blank">Divyashu Singh</a>
                     
                 </div>

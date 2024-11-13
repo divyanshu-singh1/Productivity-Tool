@@ -220,6 +220,7 @@
                     </div>
 
                 </div>
+
                 <div class="card-body p-3 pb-0">
 
                     @if(count($projects) > 0)
@@ -484,7 +485,7 @@
                 });
             });
 
-            // Drag and drop işlemi için sortable'ı etkinleştirme
+            // Drag and drop
             var el = document.querySelector('.list-group');
             var sortable = Sortable.create(el, {
                 animation: 150,
